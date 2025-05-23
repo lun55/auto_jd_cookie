@@ -4,12 +4,12 @@
 - 发送至服务器
 
 发送数据格式：
-{
-  "userName": "XXXXXXX",
-  "device": "iPhone 13 Pro",
-  "cookie": "pt_key=xxx;pt_pin=abc123;",
-  "time": "2025-05-22 14:30:00",
-}
+  {  
+  "userName": "XXXXXXX", // 必须   
+  "device": "iPhone 13 Pro",  // 非必须  
+  "cookie": "pt_key=xxx;pt_pin=abc123;", // 必须    
+  "timestamp": "2025-05-22 14:30:00",  // 非必须     
+  }   
 
 # 服务端
 需要配合服务端使用
