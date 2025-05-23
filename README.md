@@ -12,9 +12,9 @@
 }
 
 # 服务端
+需要配合服务端使用
 https://github.com/lun55/jd_cookie_server
 
 # 截图
-![图1](https://github.com/lun55/auto_jd_cookie/blob/main/Screenshot_2025-05-23-14-48-11-234_com.example.au.jpg)  
-![图2](https://github.com/lun55/auto_jd_cookie/blob/main/Screenshot_2025-05-23-14-48-25-276_com.example.au.jpg)  
-![图3](https://github.com/lun55/auto_jd_cookie/blob/main/qq_pic_merged_1747983413579.jpg)  
+![图1](https://github.com/lun55/auto_jd_cookie/blob/main/Screenshot_2025-05-23-14-48-25-276_com.example.au.jpg)  
+![图2](https://github.com/lun55/auto_jd_cookie/blob/main/Screenshot_2025-05-23-16-50-38-319_com.example.au.jpg)  
